@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="cordova-plugin-inappbrowserxwalk"
+        id="xenious-cordova-plugin-inappbrowserxwalk"
         version="0.3.3">
 
   <name>InAppBrowser Crosswalk</name>
